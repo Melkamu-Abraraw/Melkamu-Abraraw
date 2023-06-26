@@ -1,7 +1,7 @@
-[![MasterHead](https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-coding-for-parents-2-01.jpg?w=2880&quality=85)]()
+[![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)]()
 <h1 align="center">Hi 👋, I'm Melkamu Abraraw</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg"/>
+<h3 align="center">A passionate Fullstack MERN developer from Ethiopia</h3>
+<img align="right" margin-top="10px" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melkamu-abraraw&label=Profile%20views&color=0e75b6&style=flat" alt="melkamu-abraraw" /> </p>
